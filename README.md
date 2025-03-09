@@ -21,16 +21,36 @@ Git & GitHub Bootcamp Certified
 ---
 
 💡 Tech Stack  
-Languages: 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) 
+
+Programming Languages:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-Development: 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+
+Web Development:  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+Frameworks & Libraries: 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-Cybersecurity & AI:  
+
+Cybersecurity & AI:
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-181717?style=for-the-badge&logo=hack-the-box&logoColor=green)  
-![AI](https://img.shields.io/badge/AI%20%26%20ML-FF6F00?style=for-the-badge&logo=opencv&logoColor=white)  
+![AI & ML](https://img.shields.io/badge/AI%20%26%20ML-FF6F00?style=for-the-badge&logo=opencv&logoColor=white)  
+
+Tools & Platforms:
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
+![Nmap](https://img.shields.io/badge/Nmap-004A97?style=for-the-badge&logo=nmap&logoColor=white)  
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white)  
+![Autodesk Inventor](https://img.shields.io/badge/Autodesk%20Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)  
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white)  
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)  
+
 
 
 
