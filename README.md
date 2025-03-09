@@ -7,7 +7,8 @@ About Me
 🔹 Aspiring Cybersecurity Expert & AI Engineer  
 🔹 Building AI-driven Chatbots & Security Tools  
 🔹 Freelancer & Future Entrepreneur 
-🔹 Passionate about Ethical Hacking, AI & Machine Learning  
+🔹 Passionate about Ethical Hacking, AI & Machine Learning 
+I am Revanth, a passionate Cybersecurity and AI Enthusiast, currently pursuing my B.Tech in Computer Science and Engineering (Cyber Security) at GITAM University. My journey in the tech world revolves around developing AI-driven solutions, building cybersecurity tools, and exploring ethical hacking techniques. I have worked on AI-powered chatbots, including a WhatsApp chatbot capable of analyzing PDFs, and I am constantly developing new projects that bridge the gap between AI and cybersecurity. My key interests lie in penetration testing, network security, AI automation, and software development. Beyond my technical pursuits, I actively participate in hackathons, competitions, and research activities, achieving milestones such as winning 3rd prize in the Boat Racing competition at Meraz 2.0 (IIT Bhilai) and contributing as a Social Content Provider at IIT Dharwad. Additionally, I have enhanced my development workflow by completing a Git & GitHub Bootcamp. My ultimate ambition is to build innovative AI and cybersecurity solutions that make a real-world impact, while also venturing into entrepreneurship and freelancing to expand my professional reach. 
 
 ---
 
@@ -49,8 +50,11 @@ Featured Projects
 ---
 
 🌐 Connect with Me  
- LinkedIn: www.linkedin.com/in/revanth-banothu-4b3347279
- GitHub: https://github.com/revanth1819-cloud
- Twitter: https://x.com/revanthvk18
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/revanth-banothu-4b3347279)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge)](https://github.com/revanth1819-cloud)  
+[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/revanthvk18)  
+
+ Phone: 6304174467
+ Email: banothrevanth22@gmail.com
  
 Breaking limits with AI & Cybersecurity   
